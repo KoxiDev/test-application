@@ -10,5 +10,7 @@ Unfortunately, for those who like contributing to random projects, I do not acce
 
 I doubt this app will be ever that useful to install and use, since there are already many free calculators out there. But if someone does, then hey, I am not complaining!
 
-The app itself is very basic and at the moment doesn't have any exciting features.
+You can find the executable in `./bin/app.exe`, or you can compile it manually from the source code.
+
+As I stated before, the app itself is very basic and at the moment doesn't have any exciting features.
 However, as my knowledge about the Win32 API increases, I will be adding more features to the app.
